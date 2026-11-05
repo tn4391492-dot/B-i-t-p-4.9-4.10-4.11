@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\bt4_10\bt4_10\obj\Debug\bt4_10.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\bt4_10\bt4_10\obj\Debug\bt4_10.Properties.Resources.resources
+C:\Users\Admin\source\repos\bt4_10\bt4_10\obj\Debug\bt4_10.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\bt4_10\bt4_10\obj\Debug\bt4_10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bt4_10\bt4_10\bin\Debug\bt4_10.exe.config
+C:\Users\Admin\source\repos\bt4_10\bt4_10\bin\Debug\bt4_10.exe
+C:\Users\Admin\source\repos\bt4_10\bt4_10\bin\Debug\bt4_10.pdb
+C:\Users\Admin\source\repos\bt4_10\bt4_10\obj\Debug\bt4_10.exe
+C:\Users\Admin\source\repos\bt4_10\bt4_10\obj\Debug\bt4_10.pdb
