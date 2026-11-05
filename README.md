@@ -32,10 +32,15 @@ Bài 2:
 <img width="977" height="696" alt="image" src="https://github.com/user-attachments/assets/3042ca49-db21-4a79-936f-f111c84b999c" />
 
 
-
 Bài 3:
 ### 1. Ảnh màn hình Giao diện chính
+<img width="1126" height="700" alt="image" src="https://github.com/user-attachments/assets/a11cfaaf-8d6a-41ab-9332-d21a86080429" />
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
+<img width="1474" height="705" alt="image" src="https://github.com/user-attachments/assets/675a9003-3c16-4e14-ae0b-4eeff554ca6c" />
+<img width="1476" height="683" alt="image" src="https://github.com/user-attachments/assets/26311131-efb8-45cb-b1b1-d4aacd0f798e" />
+<img width="1464" height="706" alt="image" src="https://github.com/user-attachments/assets/3ae474f0-503b-4e06-a86f-c3674c801d15" />
+<img width="1464" height="706" alt="image" src="https://github.com/user-attachments/assets/3d4e718d-99a1-44a6-86d0-99f4093ee7bb" />
 
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
+<img width="1126" height="696" alt="image" src="https://github.com/user-attachments/assets/af4f7e14-5e55-4382-84ec-d300e81f0ece" />
