@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\bt4.9\bt4.9\obj\Debug\bt4.9.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\bt4.9\bt4.9\obj\Debug\bt4._9.Properties.Resources.resources
+C:\Users\Admin\source\repos\bt4.9\bt4.9\obj\Debug\bt4.9.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\bt4.9\bt4.9\obj\Debug\bt4.9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bt4.9\bt4.9\bin\Debug\bt4.9.exe.config
+C:\Users\Admin\source\repos\bt4.9\bt4.9\bin\Debug\bt4.9.exe
+C:\Users\Admin\source\repos\bt4.9\bt4.9\bin\Debug\bt4.9.pdb
+C:\Users\Admin\source\repos\bt4.9\bt4.9\obj\Debug\bt4.9.exe
+C:\Users\Admin\source\repos\bt4.9\bt4.9\obj\Debug\bt4.9.pdb
